@@ -6,7 +6,7 @@ The project uses file handling (`record.txt`) to store data for persistence.
 
 ---
 
-## 📌 Features
+##  Features
 - Add new student records
 - View all records in a structured format
 - Search a student by name
@@ -16,14 +16,14 @@ The project uses file handling (`record.txt`) to store data for persistence.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **C Programming Language**
 - **File Handling** (`record.txt`)
 - **Windows Console Functions** (`gotoxy` for cursor positioning)
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - A C compiler (e.g., GCC, MinGW, Turbo C)
@@ -46,7 +46,7 @@ The project uses file handling (`record.txt`) to store data for persistence.
 
 ---
 
-## 📂 File Structure
+##  File Structure
 ```
 student-record-management/
 │── program.c     # Source code
@@ -68,16 +68,16 @@ student-record-management/
 
 ---
 
-## ⚠️ Note
+##  Note
 - This project uses `gets()` which is unsafe in modern C standards.  
 - Recommended to replace with `fgets()` for safety in future updates.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the MIT License.
